@@ -1,14 +1,23 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Abdalle13&color=2563EB&style=flat-square&label=Profile+Views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Abdalle13&color=2563EB&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdalle+%F0%9F%91%8B;Full-Stack+Software+Engineer;MERN+Stack+Developer;Building+scalable+web+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=32\&duration=3000\&pause=1000\&color=2563EB\&center=true\&vCenter=true\&width=750\&lines=Hi%2C+I'm+Abdalle+%F0%9F%91%8B;Full-Stack+Developer;MERN+Stack+Developer;Building+Practical+Web+Applications;Computer+Science+Graduate+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
-**Full-Stack Software Engineer • MERN Stack • Focused on clean architecture, web applications & databases • BSc Computer Science Graduate 🎓**
+**Full-Stack Developer • MERN Stack • Web Applications • APIs & Databases • BSc Computer Science Graduate 🎓**
+
+<br/>
+
+<a href="https://github.com/Abdalle13">
+  <img src="https://img.shields.io/github/followers/Abdalle13?label=Followers&style=flat-square" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/Abdalle13?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Abdalle13?label=Total%20Stars&style=flat-square" alt="GitHub Stars"/>
+</a>
 
 </div>
 
@@ -16,54 +25,152 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Software Engineer** based in **Mogadishu, Somalia**. 
+I'm a **Full-Stack Developer** from **Mogadishu, Somalia**, passionate about building practical software that solves real-world problems.
 
-I recently graduated with a **BSc in Computer Science** from **Jamhuriya University of Science & Technology (JUST)**. During my studies, I conceptualized and built **AgriSense** — an end-to-end smart agriculture system engineered to support smallholder farmers through real-time IoT soil telemetry, microservices architecture, and deep learning crop disease diagnostics.
+I recently graduated with a **BSc in Computer Science from Jamhuriya University of Science & Technology (JUST)**. During my studies, I designed and developed **AgriSense**, a smart agriculture platform that combines **IoT, Machine Learning, and web technologies** to help address agricultural challenges.
 
-I am deeply passionate about writing clean, maintainable code, designing efficient relational and document database schemas, and architecting scalable web applications that solve tangible, real-world problems. 
+AgriSense brings together real-time **soil monitoring**, **crop disease diagnosis**, **weather prediction**, and a web-based dashboard into a single system. The project gave me hands-on experience working across software development, APIs, databases, IoT devices, and AI/ML.
 
-- 💻 **Core Stack:** MongoDB, Express.js, React, Node.js, TypeScript, and Tailwind CSS.
-- 📐 **Focus Areas:** Web Application Architecture, RESTful API Design, and Performance Optimization.
-- 🤝 **Status:** Currently open to **Freelance projects**, **Remote Engineering roles**, and **Open-Source Collaborations**.
+Beyond individual technologies, I'm interested in understanding how complete systems work — from the **frontend users interact with**, to the **backend APIs and database**, and the logic that connects everything together.
+
+### 🎯 What I Focus On
+
+* 💻 Full-Stack Web Development
+* ⚛️ React-based frontend applications
+* ⚙️ Node.js & Express backend development
+* 🔌 RESTful API design and integration
+* 🗄️ Database design and data management
+* 🤖 Machine Learning & AI applications
+* 🌱 IoT and smart technology solutions
+* 🔐 Authentication and role-based access control
+* 🧹 Clean, maintainable, and organized code
+
+### 🤝 Open To
+
+I'm currently open to:
+
+* 💼 **Junior / Entry-Level Full-Stack Developer roles**
+* 🌍 **Remote opportunities**
+* 💻 **Freelance projects**
+* 🤝 **Open-source collaborations**
+* 🚀 **Interesting software projects**
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
-* 🌾 **AgriSense** — Precision Agriculture Platform integrating IoT soil telemetry, React web dashboards, Node.js microservices, and automated Somali-language advisory guidance for farmers.
-* 🏥 **SmartClinic** — Hospital Workflow Management Application built with role-based access control (RBAC), client management, and interactive administrative reporting.
-* 🛒 **Kobac Electronics** — E-Commerce Web Application featuring fast catalog rendering, structured cart state management, and clear checkout flows.
+### 🌾 AgriSense — Smart Agriculture Platform
+
+An end-to-end smart agriculture system designed to support agricultural decision-making through technology.
+
+**Key features:**
+
+* 📡 Real-time soil nutrient monitoring using IoT
+* 🤖 Crop disease diagnosis using CNN-based deep learning
+* 🌦️ Weather prediction
+* 📊 Web dashboard for monitoring and insights
+* 🌍 Somali-language agricultural guidance
+* 🔗 Integration between IoT devices, backend services, database, and frontend
+
+**Technologies:** React • Node.js • Express.js • MongoDB • IoT • CNN • Machine Learning
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🏥 SmartClinic — Hospital Management System
 
-<div align="center">
+A web-based hospital workflow management application designed to organize clinical and administrative operations.
 
-**Frontend Development**
+**Key features:**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* 👥 Client/patient management
+* 🔐 Role-Based Access Control (RBAC)
+* 📊 Administrative dashboards and reporting
+* 🗂️ Organized data management
+* ⚙️ Backend API integration
 
-**Backend & Database Architecture**
+**Technologies:** React • Node.js • Express.js • MongoDB
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-025E8D?style=for-the-badge&logo=api&logoColor=white)
+---
 
-**Developer Tools**
+### 🛒 Kobac Electronics — E-Commerce Platform
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+An e-commerce web application focused on providing a straightforward shopping experience for electronics.
 
-</div>
+**Key features:**
+
+* 🛍️ Product catalog
+* 🔎 Product browsing
+* 🛒 Shopping cart
+* 📦 Product management
+* 💳 Checkout flow
+* 📱 Responsive user interface
+
+**Technologies:** React • Node.js • Express.js • MongoDB
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### 🌱 IoT
+
+**Arduino • ESP32 • Sensors • Real-Time Data Monitoring**
+
+### 🔧 Tools & Workflow
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🧠 Development Principles
+
+I try to approach software development with a few simple principles:
+
+* **Solve the problem first** — technology should serve the problem, not the other way around.
+* **Keep code maintainable** — readable code is easier to debug, extend, and collaborate on.
+* **Build with users in mind** — functionality matters, but usability matters too.
+* **Understand the fundamentals** — frameworks change, but core programming and engineering concepts remain important.
+* **Keep learning** — every project is an opportunity to improve.
+
+---
+
+## 📚 Currently Learning
+
+I'm currently focused on strengthening my skills in:
+
+* 🔥 Advanced React & TypeScript
+* 🏗️ Backend architecture
+* 🔐 Authentication & application security
+* 🗄️ Database design and optimization
+* 🧪 Testing and debugging
+* 🚀 Deployment and production workflows
+* ☁️ Cloud and modern development practices
+* 🏛️ Software architecture and system design
 
 ---
 
@@ -71,8 +178,27 @@ I am deeply passionate about writing clean, maintainable code, designing efficie
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdalle13&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=374151&bg_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalle13&layout=compact&hide_border=true&title_color=2563EB&text_color=374151&bg_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdalle13&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalle13&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalle13&hide_border=true&theme=transparent" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+[![Abdalle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalle13\&hide_border=true\&area=true)](https://github.com/Abdalle13)
 
 </div>
 
@@ -82,8 +208,24 @@ I am deeply passionate about writing clean, maintainable code, designing efficie
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdalle13)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallehussein8@gmail.com)
+<a href="https://www.linkedin.com/in/abdullahi-hussein-2b32b1382">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Abdalle13">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:abdallehussein8@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**"Building software that solves real problems, one project at a time."**
 
 </div>
