@@ -1,136 +1,122 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Abdalle13&color=2563EB&style=flat-square&label=Profile+Views" alt="profile views" />
+# Hi, I'm Abdalle 👋
 
-<br/><br/>
+**Full-Stack Developer | Mogadishu, Somalia**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=32\&duration=3000\&pause=1000\&color=2563EB\&center=true\&vCenter=true\&width=700\&lines=Hi%2C+I'm+Abdalle+%F0%9F%91%8B;Full-Stack+Developer;MERN+Stack+Specialist;Building+scalable+web+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Full-Stack Developer** based in Mogadishu, Somalia, passionate about building practical software that solves real-world problems.
+I'm a **Full-Stack Developer** and Computer Science graduate from **Jamhuriya University of Science & Technology (JUST)**, based in Mogadishu, Somalia.
 
-I recently graduated with a **BSc in Computer Science** from **Jamhuriya University of Science & Technology (JUST)**. I focus on building complete, end-to-end web applications, from designing responsive frontends and RESTful APIs to building well-structured and maintainable databases.
+I build responsive, full-stack web applications with a focus on practical solutions, maintainable code, REST APIs, and database design.
 
-* 💻 **Core Tech Stack:** React, Node.js, Express.js, MongoDB, TypeScript, Tailwind CSS
-* 📐 **Focus Areas:** Web Application Architecture, REST API Design, Database Management
-* 🤝 **Open To:** Junior / Entry-Level Full-Stack Developer roles, Remote opportunities, & Freelance projects
-
----
-
-## 🚀 Featured Projects
-
-### 🌾 AgriSense
-
-A smart agriculture platform that combines IoT and machine learning to help farmers monitor soil conditions, detect crop diseases, and receive useful farming insights in Somali.
-
-* **Tech Stack:** React • Node.js • Express.js • MongoDB • IoT • CNN • Machine Learning • Microservices Architecture
+- **Focus:** Full-Stack Web Development
+- **Core Stack:** React, Node.js, Express.js, MongoDB, TypeScript
+- **Open To:** Junior Developer Roles, Internships, and Freelance Projects
 
 ---
+
+## Featured Projects
+
+### 🌾 AgriSense | Smart Agriculture Platform
+
+A smart farming platform that combines real-time soil monitoring, AI-powered crop disease diagnosis, and personalized agricultural advice in Somali.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, IoT, CNN
+
+[Live Demo](https://smart-agriculture-project-lovat.vercel.app/) · [Repository](https://github.com/Abdalle13/agrisense)
+
+### 🍽️ Barwaaqo Restaurant Management System
+
+A full-stack restaurant platform featuring online food ordering, customizable meals, order tracking, table reservations, mobile-money payment options, and an administrative dashboard.
+
+**Tech Stack:** Next.js, TypeScript, Node.js, Express.js, MongoDB, ImageKit
+
+[Live Demo](https://barwaaqo-restaurant.vercel.app/) · [Repository](https://github.com/Abdalle13/Barwaaqo-Restaurant)
 
 ### 🏫 Al-Hikma School Management System
 
-A full-stack platform designed for private schools and madrasas to manage students, teachers, attendance, exams, fees, admissions, timetables, reports, and different user portals.
+A school management platform for Somali schools and madrasas, with student enrollment, attendance, exams, report cards, fee management, and dedicated portals for different users.
 
-* **Tech Stack:** React • Node.js • Express.js • MongoDB • Tailwind CSS
-* **Live Demo:** [al-hikma-school.vercel.app](https://al-hikma-school.vercel.app/)
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
 
----
+[Live Demo](https://alhikmaschool.netlify.app/) · [Repository](https://github.com/Abdalle13/al-hikma-school)
 
 ### 🛒 Kobac Electronics
 
-A modern e-commerce application for browsing electronics, with product search, shopping cart functionality, and a clean responsive interface designed for a smooth shopping experience.
+An e-commerce platform for browsing electronics, managing shopping carts, and supporting online shopping workflows tailored to the Somali market.
 
-* **Tech Stack:** React • Node.js • Express.js • MongoDB • Tailwind CSS
-* **Live Demo:** [kobac-electronics.vercel.app](https://kobac-electronics.vercel.app/)
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
 
----
+[Live Demo](https://kobacelectronics.netlify.app/) · [Repository](https://github.com/Abdalle13/kobac-electronics)
 
 ### 🏥 SmartClinic
 
-A hospital management system designed to organize healthcare workflows, patient records, user roles, and administrative operations through a centralized web application.
+A hospital management system for managing appointments, patient records, doctor schedules, prescriptions, billing, and pharmacy inventory with role-based access.
 
-* **Tech Stack:** React • Node.js • Express.js • MongoDB
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+
+[Live Demo](https://smartclinichs.netlify.app/) · [Repository](https://github.com/Abdalle13/SmartClinic)
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Tools
 
 <div align="center">
 
-**Frontend Development**
+**Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Database Architecture**
+**Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-025E8D?style=for-the-badge\&logo=api\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge)
 
-**Tools & Workflow**
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Abdalle13\&show_icons=true\&theme=default\&hide_border=true\&title_color=2563EB\&icon_color=2563EB)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdalle13&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB" alt="GitHub Stats" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalle13\&layout=compact\&theme=default\&hide_border=true\&title_color=2563EB)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalle13&layout=compact&theme=default&hide_border=true&title_color=2563EB" alt="Top Languages" />
 
-</div>
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdalle13\&theme=default\&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalle13&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## 💡 What I Care About
-
-I enjoy building software that is practical, reliable, and easy to use. I care about writing clean code, creating good user experiences, and understanding how different parts of an application work together.
-
-I'm also focused on improving my problem-solving skills and building applications that can solve real-world problems.
-
----
-
-## 📚 Currently Learning
-
-I'm currently focused on becoming a stronger full-stack developer by improving my skills in **React, TypeScript, backend architecture, authentication and security, database design, testing, debugging, deployment, and software architecture**.
-
-My goal is to build applications that are not only functional, but also clean, maintainable, secure, and scalable.
-
----
-
-## 📬 Let's Connect
+## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
-   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Abdalle13)
-   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abdallehussein8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdalle13)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallehussein8@gmail.com)
 
 </div>
