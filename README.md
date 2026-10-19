@@ -50,7 +50,7 @@ An e-commerce application for browsing electronics, discovering products, and ma
 
 **Tech:** React · Node.js · Express.js · MongoDB · Tailwind CSS
 
-[Live Demo](https://kobacelectronics.netlify.app/)
+[Live Demo](https://kobacelectronics.netlify.app/) · [GitHub Repository](https://github.com/Abdalle13/kobac-electronics)
 
 ### 🏥 SmartClinic
 
