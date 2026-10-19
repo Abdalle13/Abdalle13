@@ -1,12 +1,14 @@
- <div align="center">
+<div align="center">
 
-# Hi, I'm Abdalle 👋
+# Hi, I'm Abdullahi Hussein 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Mogadishu%2C+Somalia;MERN+Stack+Specialist;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdalle13)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdallehussein8@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdalle13)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallehussein8@gmail.com)
 
 </div>
 
@@ -109,6 +111,10 @@ A healthcare management application designed to organize patient records, appoin
 
 **Thanks for visiting my profile!**
 
-[LinkedIn](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382) · [GitHub](https://github.com/Abdalle13) · [Email](mailto:abdallehussein8@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdalle13)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallehussein8@gmail.com)
 
 </div>
