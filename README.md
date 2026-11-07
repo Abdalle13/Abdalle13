@@ -20,42 +20,6 @@ I build responsive web applications, REST APIs, and database-driven systems, foc
 
 ---
 
-## Featured Projects
-
-### 🍽️ Barwaaqo Restaurant Management System
-
-A restaurant platform featuring customizable food orders, online ordering, order tracking, table reservations, payment options, and an administrative dashboard.
-
-**Tech:** Full-Stack Web Development
-
-[Live Demo](https://barwaaqorestaurant.netlify.app/) · [GitHub Repository](https://github.com/Abdalle13/Barwaaqo-Restaurant)
-
-### 🏫 Al-Hikma School Management System
-
-A school management platform for managing students, teachers, attendance, exams, fees, admissions, timetables, and academic reports.
-
-**Tech:** React · Node.js · Express.js · MongoDB · Tailwind CSS
-
-[Live Demo](https://alhikmaschool.netlify.app/) · [GitHub Repository](https://github.com/Abdalle13/al-hikma-school)
-
-### 🛒 Kobac Electronics
-
-An e-commerce application for browsing electronics, discovering products, and managing shopping cart workflows through a responsive interface.
-
-**Tech:** React · Node.js · Express.js · MongoDB · Tailwind CSS
-
-[Live Demo](https://kobacelectronics.netlify.app/) · [GitHub Repository](https://github.com/Abdalle13/kobac-electronics)
-
-### 🏥 SmartClinic
-
-A healthcare management application designed to organize patient records, appointments, healthcare workflows, and administrative operations.
-
-**Tech:** React · Node.js · Express.js · MongoDB
-
-[Live Demo](https://smartclinichs.netlify.app/) · [GitHub Repository](https://github.com/Abdalle13/SmartClinic)
-
----
-
 ## Tech Stack & Tools
 
 <div align="center">
