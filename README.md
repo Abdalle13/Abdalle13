@@ -6,10 +6,6 @@
 
 I build practical, responsive web applications and APIs with a focus on clean code, usability, and maintainable solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdallehussein8@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Abdalle13-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abdalle13)
-
 </div>
 
 ---
@@ -20,7 +16,7 @@ I'm a **Full-Stack Developer** and Computer Science graduate from **Jamhuriya Un
 
 - **Focus:** Full-stack web development
 - **Core technologies:** React, TypeScript, Node.js, Express.js, and MongoDB
-- **Currently open to:** Junior developer roles, internships, and freelance projects
+- **Open to:** Junior developer roles, internships, and freelance projects
 
 ## Tech Stack
 
@@ -46,27 +42,31 @@ I'm a **Full-Stack Developer** and Computer Science graduate from **Jamhuriya Un
 
 ## GitHub Analytics
 
-The stats images were broken because the public `github-readme-stats.vercel.app` service can be unavailable or rate-limited. These cards now use an alternate public deployment and are linked to GitHub as a fallback.
-
 <div align="center">
-  <a href="https://github.com/Abdalle13">
-    <img height="180" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdalle13&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Abdullahi's GitHub statistics" />
-  </a>
-  <a href="https://github.com/Abdalle13">
-    <img height="180" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdalle13&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Abdullahi's most used programming languages" />
-  </a>
-  <br />
-  <a href="https://github.com/Abdalle13">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalle13&theme=github-dark-blue&hide_border=true" alt="Abdullahi's GitHub contribution streak" />
-  </a>
+
+<a href="https://github.com/Abdalle13">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdalle13&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" width="49%" />
+</a>
+<a href="https://github.com/Abdalle13">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalle13&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" width="49%" />
+</a>
+
+<br />
+
+<a href="https://github.com/Abdalle13">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalle13&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-Thanks for stopping by! Feel free to connect or get in touch about opportunities and projects.
+Thanks for stopping by!
 
-[LinkedIn](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382) · [Email](mailto:abdallehussein8@gmail.com) · [GitHub](https://github.com/Abdalle13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdallehussein8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Abdalle13-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abdalle13)
 
 </div>
