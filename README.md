@@ -2,7 +2,13 @@
 
 # Hi, I'm Abdullahi Hussein 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Mogadishu%2C+Somalia;MERN+Stack+Specialist;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+### Full-Stack Developer · Mogadishu, Somalia
+
+I build practical, responsive web applications and APIs with a focus on clean code, usability, and maintainable solutions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdallehussein8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Abdalle13-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abdalle13)
 
 </div>
 
@@ -10,22 +16,15 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer** and Computer Science graduate from **Jamhuriya University of Science & Technology (JUST)**.
+I'm a **Full-Stack Developer** and Computer Science graduate from **Jamhuriya University of Science & Technology (JUST)**. I create web applications, REST APIs, and database-driven systems, emphasizing useful features and thoughtful implementation.
 
-I build responsive web applications, REST APIs, and database-driven systems, focusing on usability, maintainable code, and practical solutions.
+- **Focus:** Full-stack web development
+- **Core technologies:** React, TypeScript, Node.js, Express.js, and MongoDB
+- **Currently open to:** Junior developer roles, internships, and freelance projects
 
-- **Specialization:** Full-Stack Web Development
-- **Core Stack:** React, Node.js, Express.js, MongoDB, TypeScript
-- **Open To:** Junior Developer Roles, Internships, and Freelance Projects
+## Tech Stack
 
----
-
-## Tech Stack & Tools
-
-<div align="center">
-
-**Frontend**
-
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,46 +32,41 @@ I build responsive web applications, REST APIs, and database-driven systems, foc
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & Database**
-
+**Backend & Data**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge)
 
-**Development Tools**
-
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
----
-
 ## GitHub Analytics
 
+The stats images were broken because the public `github-readme-stats.vercel.app` service can be unavailable or rate-limited. These cards now use an alternate public deployment and are linked to GitHub as a fallback.
+
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdalle13&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB" alt="GitHub Statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalle13&layout=compact&theme=default&hide_border=true&title_color=2563EB" alt="Most Used Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalle13&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
-
+  <a href="https://github.com/Abdalle13">
+    <img height="180" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdalle13&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Abdullahi's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Abdalle13">
+    <img height="180" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdalle13&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Abdullahi's most used programming languages" />
+  </a>
+  <br />
+  <a href="https://github.com/Abdalle13">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalle13&theme=github-dark-blue&hide_border=true" alt="Abdullahi's GitHub contribution streak" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+Thanks for stopping by! Feel free to connect or get in touch about opportunities and projects.
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdalle13)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallehussein8@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382) · [Email](mailto:abdallehussein8@gmail.com) · [GitHub](https://github.com/Abdalle13)
 
 </div>
