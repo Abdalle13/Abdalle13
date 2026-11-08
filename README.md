@@ -1,10 +1,13 @@
-<div align="center">
+ <div align="center">
 
-# Hi, I'm Abdullahi Hussein 👋
+<img src="https://komarev.com/ghpvc/?username=Abdalle13&style=flat-square&color=grey" alt="Profile Views" />
 
-### Full-Stack Developer · Mogadishu, Somalia
+# Hi, I'm Abdalle 👋
 
-I build practical, responsive web applications and APIs with a focus on clean code, usability, and maintainable solutions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;Building+scalable+web+applications)](https://git.io/typing-svg)
+
+**Application Support Engineer at Relia Trusty**  
+Computer Science Graduate · Mogadishu, Somalia
 
 </div>
 
@@ -12,33 +15,33 @@ I build practical, responsive web applications and APIs with a focus on clean co
 
 ## About Me
 
-I'm a **Full-Stack Developer** and Computer Science graduate from **Jamhuriya University of Science & Technology (JUST)**. I create web applications, REST APIs, and database-driven systems, emphasizing useful features and thoughtful implementation.
+I'm a Computer Science graduate from **Jamhuriya University of Science & Technology (JUST)** and currently working as an **Application Support Engineer at Relia Trusty**.
 
-- **Focus:** Full-stack web development
-- **Core technologies:** React, TypeScript, Node.js, Express.js, and MongoDB
-- **Open to:** Junior developer roles, internships, and freelance projects
+Alongside my current role, I focus on Full-Stack Web Development, building practical applications and REST APIs with an emphasis on clean code, usability, and maintainable solutions.
+
+- **Current Role:** Application Support Engineer at Relia Trusty
+- **Development Focus:** Full-Stack Web Development
+- **Specialization:** MERN Stack
+- **Core Technologies:** JavaScript, TypeScript, React, Node.js, Express.js, and MongoDB
+- **Location:** Mogadishu, Somalia
 
 ## Tech Stack
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Frontend**
 
-**Backend & Data**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge)
+HTML5 · CSS3 · JavaScript · TypeScript · React.js · Next.js · Tailwind CSS
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Backend**
+
+Node.js · Express.js · REST APIs
+
+**Database**
+
+MongoDB
+
+**Tools**
+
+Git · GitHub · VS Code · Postman
 
 ## GitHub Analytics
 
@@ -63,7 +66,7 @@ I'm a **Full-Stack Developer** and Computer Science graduate from **Jamhuriya Un
 
 <div align="center">
 
-Thanks for stopping by!
+**Thanks for visiting my profile!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-hussein-2b32b1382)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdallehussein8@gmail.com)
